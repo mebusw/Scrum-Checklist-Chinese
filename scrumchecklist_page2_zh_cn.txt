@@ -1,0 +1,76 @@
+What is this? Who is it for?
+
+这是什么？ 给谁用？
+
+The Scrum checklist is a simple tool to help you get started with Scrum, or assess your current implementation of Scrum.
+
+Scrum检查清单是一个简单的工具，帮助你启动Scrum，或评估当前的Scrum实施状况。
+
+Note that these aren't rules. They are guidelines. A team of two might decide to skip the daily Scrum, since they are pair programming all day anyway and might not need a separate meeting to synchronize. Fine. Then they have intentionally skipped a Scrum practice but ensured that the underlying purpose of the scrum practice has been fulfilled in another way. That is what counts!
+
+注意这不是规则。它们是指导方针。两个人的团队可能决定不举行每日站会，因为他们整天结对编程而无需一个单独的会议去同步。好吧。他们故意地略过了一项Scrum实践，但确保了Scrum实践的根本目的以另一种形式得到了满足。这是最重要的！
+
+If you are doing Scrum it might be interesting to have the team go through this list at a retrospective. As a discussion tool, not an evaluation tool.
+
+如果你在实施Scrum，在回顾会议中让团队来逐条检查这份清单可能会很有意思。作为一个讨论工具，而不是评估工具。
+
+How do I use it?
+
+我该如何使用？
+
+Joe: "For this retrospective, I've brought a useful little checklist. Is there any of this stuff that we aren't doing?”
+
+小周：“这次回顾会议，我带来一个有用的小清单。有哪些事情我们没做到吗？”
+
+Lisa: "Hmmm, let's see. Well, we're certainly missing Definition of Done, and we don't measure Velocity.”
+
+小丽：“嗯，咱们来看看。哦，我们肯定漏掉了DoD，我们也没有度量速率。”
+
+Joe: "Well, 'Definition of Done' is listed under 'Core Scrum' so it seems pretty important! Velocity is listed under 'Recommended but not always necessary' so let's wait with that and start with the core stuff.
+
+小周：“哦，'DoD'列在'核心Scrum'之内，看起来非常重要。'速率'列在'推荐但不完全是必须的'之内，那就让我们等一下，先开始核心的事情。”
+
+Lisa: "Look, we're also missing 'Delivering working, tested software every 4 weeks or less'. That's listed under 'The bottom line'! Makes sense, because marketing is always complaining about that!”
+
+小丽：“看，我们还漏掉了'每个迭代(4周以内)交付测试过且可工作的软件'。它列在'基本项目'之内！有道理，因为市场部总是在抱怨这件事！”
+
+Joe: "Maybe a concept like 'Definition of Done' could help us take on smaller bits per sprint and get stuff releasable more often?’
+
+小周：“或许'DoD'的概念能帮助我们在每个迭代都完成一小部分，并且更频繁地交付？”
+
+Lisa: "Good idea, let's give it a shot.”
+
+小丽：“好主意，让我们试一试。”
+
+
+How do I NOT use it?
+
+什么情况下不该使用？
+
+Big Boss: "OK team, time to see how Scrum compliant you are. Fill in this checklist please.”
+
+大老板：“好了团队，该看看我们的Scrum实施得怎么样了？请填一下这份检查清单。”
+
+Joe: "Boss, I'm happy to report that we are doing everything. Well, everything except Sprint burndown charts”
+
+小周：“老板，我很高兴向你汇报我们所有事情都在做。好吧，除了迭代燃尽图这一项。”
+
+Big Boss: "Bad, bad team! It says here that you should be doing those... er...  sprint burning thingies! I want them!" 
+
+大老板：“烂，烂团队！这上面说你们应该做那些…呃…迭代燃尽什么的！我想要它们！”
+
+Lisa: "But we do 2 week sprints and almost always manage to deliver what we commit to, and the customers are happy. Sprint burndown charts wouldn't add value at this stage.”
+
+小丽：“但我们运行两周长度的迭代，而且几乎总能交付我们所承诺的，客户也挺满意。迭代燃尽图目前不会增加什么价值。”
+
+Big Boss: "Well it says here that you should do it, so don't let me catch you cheating again, or I'll call in the Scrum Police!”
+
+大老板：“可这上面说你们应该做，别让我再逮到你们耍花招，否则我会找些Scrum警察过来。”
+
+Is this an official checklist?
+
+这是官方的检查清单吗？
+
+No. The checklist reflects my personal & subjective opinion about what really matters in Scrum. I've spent years helping companies get started with Scrum and met hundreds of other practitioners, trainers, and coaches; and I've found that checklists like this can be helpful, if used correctly.
+
+不是。它反映了我个人对Scrum重要事物的主观看法。我花了好几年来帮助许多公司启动Scrum，并会见了数百位实践者、培训师和教练；我发现如果使用得当，像这样的清单是有益的。
