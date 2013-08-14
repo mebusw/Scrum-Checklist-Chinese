@@ -1,0 +1,189 @@
+
+ = the unofficial Scrum Checklist =
+ * version: 2.2 (2013-08-13)
+ * http://www.crisp.se/scrum/checklist
+ * Henrik Kniberg
+ * 简体中文翻译：申健 窦涵之
+
+ == The bottom line / 基本项目 ==
+ * If you achieve these you can ignore the rest of the checklist. Your processs is fine.
+ * 如果你做到了这些，就可以忽略检查清单的其他部分。你的过程还不错。
+   * [ ] Deliveling **working, tested software** every 4 weeks or less
+   * [ ] 每个迭代(4周以内)交付**测试过且可工作的软件**
+   * [ ] Delivering what the **business needs** most
+   * [ ] 交付**业务最需要的**内容
+   * [ ] Process is **continuously improving**
+   * [ ] **持续地改进**过程
+
+ == Core Scrum / Scrum核心 ==
+ * These are central to Scrum. Without these you probably shouldn't call it Scrum.
+ * 这些条目是Scrum的主要元素。没有它们，你就不能称之为Scrum。
+   * [ ] Clearly defined **product owner (PO)**
+   * [ ] 明确**产品负责人(PO)**
+     * [ ] PO is **empowered** to prioritize
+     * [ ] PO**有权**进行优先级排序
+     * [ ] PO has **knowledge** to priortize.
+     * [ ] PO**有知识**进行优先级排序
+     * [ ] PO has direct **contact with team**
+     * [ ] PO直接**与团队接触**
+     * [ ] PO has direct **contact with stakeholders**
+     * [ ] PO直接**与利益相关者接触**
+     * [ ] PO speaks **with one voice** (in case PO is a team)
+     * [ ] 当PO是一个团队时， PO们**统一口径**
+   * [ ] Team has a **sprint backlog**
+   * [ ] 团队拥有一个**迭代待办项列表(sprint backlog)**
+     * [ ] Highly **visible**
+     * [ ] 高度**可视化**
+     * [ ] **Updated** daily
+     * [ ] 毎日**更新**
+     * [ ] Owned exclusively by the **team**
+     * [ ] 完全地由**团队**拥有
+   * [ ] **Daily Scrum** happens
+   * [ ] 举行**每日站会(daily scrum)**
+     * [ ] Whole team participates
+     * [ ] 团队全员参加
+     * [ ] Problem & impediments are surfaced
+     * [ ] 暴露出问题和障碍
+   * [ ] **Demo** happens after every sprint
+   * [ ] 每个迭代后举行**演示(demo)**
+     * [ ] Shows **working, tested software**
+     * [ ] 展示**测试过且可工作的软件**
+     * [ ] **Feedback** received from stakeholders & PO
+     * [ ] 收到来自利益相关者和PO的**反馈**
+   * [ ] Have **Definition of Done (DoD)**
+   * [ ] 具有 **完成的定义(DoD)**
+     * [ ] DoD **achievable** within each iteration
+     * [ ] DoD在每个迭代内都是**切实可行的**
+     * [ ] Team **respects** DoD
+     * [ ] 团队**尊重**DoD
+   * [ ] **Retrospective** happens after every sprint
+   * [ ] 每个迭代结束后都举行**回顾(retrospective)**
+     * [ ] Results in concrete improvement **proposals**
+     * [ ] 产出具体的改进**提案**
+     * [ ] Some proposals actually get **implemented**
+     * [ ] 一些提案真正得到**实现**
+     * [ ] **Whole team + PO** participates
+     * [ ] **团队全员和PO**参加
+   * [ ] PO has a **product backlog(PBL)**
+   * [ ] PO 拥有一个 **产品待办项列表（product backlog)**
+     * [ ] Top items are **prioritized** by business value
+     * [ ] 高优先级待办项是按业务价值**排序过的**
+     * [ ] Top items are **estimated**
+     * [ ] 高优先级待办项是**估算过的**
+     * [ ] **Estimates written by the team**
+     * [ ] **由团队进行估算**
+     * [ ] Top items in **PBL small enough to fit in a sprint**
+     * [ ] 高优先级待办项**粒度足够细，可以放入一个迭代内**
+     * [ ] PO understands **purpose** of all backlog items
+     * [ ] PO理解所有待办项的**目的**
+   * [ ] Have **sprint planning meetings**
+   * [ ] 举行**迭代计划会议(sprint planning meetings)**
+     * [ ] **PO participates**
+     * [ ] **PO参加**
+     * [ ] PO brings **up-to-date PBL**
+     * [ ] PO展示**最新的产品待办项列表**
+     * [ ] **Whole team** participates
+     * [ ] **团队全员**参加
+     * [ ] Results in a **sprint plan**
+     * [ ] 产出**迭代计划(sprint plan)**
+     * [ ] Whole team believes plan is **achievable**
+     * [ ] 团队全员相信计划是**切实可行的**
+     * [ ] PO **satisfied with priorities**
+     * [ ] PO**对待办项的优先级满意**
+   * [ ] Timeboxed **iterations**
+   * [ ] 基于时间盒的**迭代**
+     * [ ] Iteration length **4 weeks or less**
+     * [ ] 迭代长度**小于等于4周**
+     * [ ] Always **end on time**
+     * [ ] 总是**按时结束**
+     * [ ] Team **not disrupted or controlled** by outsiders	
+     * [ ] 团队**不被外部打扰或控制**
+     * [ ] Team usually **delivers what they commited to**
+     * [ ] 团队通常能够**交付他们承诺的内容**
+   * [ ] Team members **sit together**
+   * [ ] 团队成员**坐在一起**
+     * [ ] **Max 9 people** per team
+     * [ ] 每个团队**最多9人**
+
+ == Recommended but not always necessary / 推荐但不完全是必须的 ==
+ * Most of these will usually be needed, but not always all of them. Experiment!
+ * 大多数通常是需要的，但不是所有。尝试!
+   * [ ] Team **has all skills** needed to bring backlog items to Done
+   * [ ] 团队具备完成待办项的**所有技能**
+   * [ ] Team members **not locked into specific roles**
+   * [ ] 团队成员**不会局限于特定角色**
+   * [ ] Iterations that are **doomed to fail** are terminated early
+   * [ ] **注定失败**的迭代趁早结束
+   * [ ] PO has **product vision** that is in sync with PBL
+   * [ ] PO的**产品愿景**体现在产品待办项列表中
+   * [ ] PBL and product vision is **highly visible**
+   * [ ] 产品待办项列表和产品愿景**高度可视化**
+   * [ ] Everyone on the **team participates in estimating**
+   * [ ] **团队全员参与估算**
+   * [ ] **PO available**when team is estimating
+   * [ ] 团队估算时**PO在场**
+   * [ ] Estimate **relative size** (story points) rather than time
+   * [ ] 用**相对大小**(故事点)而不是时间来估算
+   * [ ] Whole team knows top 1-3 **impediments**
+   * [ ] 团队都知道最紧迫的1-3条**障碍**
+     * [ ] **SM has strategy** for how to fix top impediment
+     * [ ] **SM具备应对策略**去解决紧迫的障碍
+     * [ ] **SM forcusing** on removing impediments
+     * [ ] **SM专注于**移除障碍
+     * [ ] **Escalated to management** when team can't solve
+     * [ ] 当团队不能解决时提交给**管理层**
+   * [ ] Team has a **Scrum Master (SM)**
+   * [ ] 团队具有一个**Scrum Master(SM)**
+     * [ ] SM **sits with the team**
+     * [ ] SM **与团队坐在一起**
+   * [ ] PBL items **are broken into tasks** within a sprint
+   * [ ] 当前迭代内的待办项**拆分成任务(task)**
+     * [ ] Sprint tasks are **estimated**
+     * [ ] 迭代的任务是**估算过的**
+     * [ ] Estimates for ongoing tasks are **updated daily**
+     * [ ] **毎日重新估算**进行中的任务
+   * [ ] **Velocity** is measured
+   * [ ] 度量**速率(velocity)**
+     * [ ] All Items in sprint plan have an **estimate**
+     * [ ] 迭代计划内的所有待办项都具有**估算值**
+     * [ ] PO uses velocity for **release planning**
+     * [ ] PO利用速率来做**发布计划(release planning)**
+     * [ ] Velocity only includes items that are **Done**
+     * [ ] 速率仅统计**完成**的待办项
+   * [ ] Team has a **sprint burndown chart**
+   * [ ] 团队拥有一个**迭代燃尽图**
+     * [ ] Highly **visible**
+     * [ ] 高度**可视化**
+     * [ ] **Updated** daily
+     * [ ] 毎日**更新**
+   * [ ] **Daily Scrum** is every day, same time & place
+   * [ ] **每日站会(daily scrum)**每天召开，固定地点和时间
+     * [ ] **PO participates** at least a few times per week
+     * [ ] **PO每周至少参加几次**  
+     * [ ] Max **15 miniutes**
+     * [ ] 最长**15分钟**
+     * [ ] Each team member **knows what the others are doing**
+     * [ ] 每个团队成员都**知道其他人在做什么**
+
+ == Scaling / 规模扩大 ==
+ * These are pretty fundamental to any Scrum scaling effort.
+ * 任何扩大Scrum规模的努力都要具备的最基本条件。
+   * [ ] You have a **Chief Product Owner** (if many POs)
+   * [ ] 存在一个**首席产品负责人(chief product owner)**(如果多个PO的话)
+   * [ ] Dependent teams do **Scrum of Scrums**
+   * [ ] 相互依赖的团队召开**Scrum of Scrums**
+   * [ ] Dependent teams **integrate within each sprint**
+   * [ ] 相互依赖的团队**每个迭代内进行集成**
+
+ == Positive indicators  / 积极信号 ==
+ * Leading indicators of a good Scrum implementation.
+ * 良好Scrum实施的主要信号。
+   * [ ] **Having fun!** High energy level.
+   * [ ] **快乐!** 热情饱满
+   * [ ] **Overtime work is rare** and happend voluntarily
+   * [ ] **很少加班**且自愿发生
+   * [ ] Discussing, criticizing, and **experimenting** with the process
+   * [ ] 对过程进行讨论、批评和**尝试**
+ 
+
+
