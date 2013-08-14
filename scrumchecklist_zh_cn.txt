@@ -5,7 +5,7 @@
  * Henrik Kniberg
  * 简体中文翻译：申健 窦涵之
 
- == The bottom line / 基本项目 ==
+ == The bottom line / 基本条目 ==
  * If you achieve these you can ignore the rest of the checklist. Your processs is fine.
  * 如果你做到了这些，就可以忽略检查清单的其他部分。你的过程还不错。
    * [ ] Deliveling **working, tested software** every 4 weeks or less
@@ -51,7 +51,7 @@
      * [ ] **Feedback** received from stakeholders & PO
      * [ ] 收到来自利益相关者和PO的**反馈**
    * [ ] Have **Definition of Done (DoD)**
-   * [ ] 具有 **完成的定义(DoD)**
+   * [ ] 具有**完成的定义(DoD)**
      * [ ] DoD **achievable** within each iteration
      * [ ] DoD在每个迭代内都是**切实可行的**
      * [ ] Team **respects** DoD
@@ -157,7 +157,7 @@
      * [ ] **Updated** daily
      * [ ] 毎日**更新**
    * [ ] **Daily Scrum** is every day, same time & place
-   * [ ] **每日站会(daily scrum)**每天召开，固定地点和时间
+   * [ ] **每日站会(daily scrum)**每天举行，固定地点和时间
      * [ ] **PO participates** at least a few times per week
      * [ ] **PO每周至少参加几次**  
      * [ ] Max **15 miniutes**
@@ -165,13 +165,13 @@
      * [ ] Each team member **knows what the others are doing**
      * [ ] 每个团队成员都**知道其他人在做什么**
 
- == Scaling / 规模扩大 ==
+ == Scaling / 扩大规模 ==
  * These are pretty fundamental to any Scrum scaling effort.
  * 任何扩大Scrum规模的努力都要具备的最基本条件。
    * [ ] You have a **Chief Product Owner** (if many POs)
-   * [ ] 存在一个**首席产品负责人(chief product owner)**(如果多个PO的话)
+   * [ ] 存在一个**首席产品负责人(chief PO)**(如果多个PO的话)
    * [ ] Dependent teams do **Scrum of Scrums**
-   * [ ] 相互依赖的团队召开**Scrum of Scrums**
+   * [ ] 相互依赖的团队举行**Scrum of Scrums**
    * [ ] Dependent teams **integrate within each sprint**
    * [ ] 相互依赖的团队**每个迭代内进行集成**
 

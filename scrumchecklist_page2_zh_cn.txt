@@ -28,7 +28,7 @@ Lisa: "Hmmm, let's see. Well, we're certainly missing Definition of Done, and we
 
 Joe: "Well, 'Definition of Done' is listed under 'Core Scrum' so it seems pretty important! Velocity is listed under 'Recommended but not always necessary' so let's wait with that and start with the core stuff.
 
-小周：“哦，'DoD'列在'核心Scrum'之内，看起来非常重要。'速率'列在'推荐但不完全是必须的'之内，那就让我们等一下，先开始核心的事情。”
+小周：“哦，'DoD'列在'Scrum核心'之内，看起来非常重要。'速率'列在'推荐但不完全是必须的'之内，那就让我们等一下，先开始核心的事情。”
 
 Lisa: "Look, we're also missing 'Delivering working, tested software every 4 weeks or less'. That's listed under 'The bottom line'! Makes sense, because marketing is always complaining about that!”
 
